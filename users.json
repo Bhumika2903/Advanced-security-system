@@ -16,5 +16,11 @@
         "email": "rohit@gmail",
         "failed_attempts": 0,
         "locked": false
+    },
+    "bhumikapandey": {
+        "password": "a4e83f2ab8a262a53d42ffc8931bf5daa9ff9a4fca5f8d147793e0b33053e609",
+        "email": "imbhumikapandey1@gmail.com",
+        "failed_attempts": 0,
+        "locked": false
     }
 }
