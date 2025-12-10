@@ -54,9 +54,9 @@ A secure desktop application built with Python, Tkinter, and cryptography librar
 
 ## Author
 
-Narendra Singh Bisht 
+Bhumika Pandey 
 
-Email: bishtn359@gmail.com  
+Email: imbhumikapandey1@gmail.com  
 ## License
 
 This project is licensed under the MIT License.
