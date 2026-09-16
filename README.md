@@ -8,7 +8,7 @@ A secure desktop application built with Python, Tkinter, and cryptography librar
 - File encryption and decryption with Fernet symmetric encryption for enhanced data security
 - Modern and user-friendly Tkinter-based GUI to improve interaction and usability
 - Efficient handling of 1,000+ files with encryption and decryption processes
-- Improved UI interaction time by 20% with modern design enhancements
+- Improved UI interaction time by 20% with modern design enhancements 
 - Delivered project 2 weeks ahead of schedule
 
 ## Technologies Used
